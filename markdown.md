@@ -6,7 +6,7 @@ permalink: /markdown/
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](another-page).
+[Link to another page](http://www.google.si).
 
 There should be whitespace between paragraphs.
 
@@ -15,6 +15,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # [](#header-1)Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+Tisteli oklepaji pred naslovom so za linkanje direkt na Header-vrstico strani
 
 ## [](#header-2)Header 2
 
