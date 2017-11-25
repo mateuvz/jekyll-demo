@@ -26,7 +26,7 @@ github_username:  mateuvz
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minima #spremenimo lahko tudi v settings -> page -> Theme
 plugins:
   - jekyll-feed
 
